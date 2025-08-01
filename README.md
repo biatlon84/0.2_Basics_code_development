@@ -1,2 +1,2 @@
-# 0.2Basics_code_development 
+# 0.2_Basics_code_development 
 algorithmization and sorting
